@@ -73,3 +73,8 @@ public class Employee{
 	
 	
 }
+
+/*
+create database EmployeeData;
+CREATE TABLE `EMPLOYEE` ( `id` int(11) NOT NULL AUTO_INCREMENT, `empName` varchar(30) DEFAULT NULL, `salary` varchar(10) DEFAULT NULL,`empDept` varchar(30) DEFAULT NULL,`age` varchar(5), PRIMARY KEY (`id`) );
+*/
